@@ -13,4 +13,4 @@ Perform this step before continuing with any other part of the project setup.
 -->
 
 ## Goal
-Create a simple Python project that accepts user input and prints it to stdout.
+Create a simple Python project that creates a simple calculator app.
